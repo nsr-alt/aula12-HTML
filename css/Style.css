@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 header{
     display: flex;
     justify-content: center;
@@ -14,7 +19,18 @@ section img{
 
 }
 
-.container{
+footer{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    margin-top: 15px;
+}
+
+/*YAKUZA 0*/
+
+.container-0{
     display: flex;
     flex-direction: column;    
     margin-top: 50px;
@@ -22,6 +38,71 @@ section img{
     text-align: justify;
     padding: 60px;
     background-color: rgb(0, 153, 255);    
+}
+
+/*Yakuza KIWAMI*/
+
+.container-KIWAMI{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(117, 3, 3); 
+    color: white;
+}
+
+/*Yakuza KIWAMI 2*/
+
+.container-KIWAMI-2{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(206, 199, 0); 
+    color: black;
+}
+
+/*Yakuza 3*/
+
+.container-3{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(177, 177, 177); 
+    color: black;
+}
+
+/*Yakuza 4*/
+
+.container-4{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(192, 1, 77); 
+    color: white;
+}
+
+/*Yakuza 5*/
+
+.container-5{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(98, 43, 1); 
+    color: white;
 }
 
 .box{
@@ -34,8 +115,8 @@ section img{
 
 .yakuza{
     background-color: black;
-    width: 500px;
-
+    width: 30%;
+    padding: 30px;
 }
 
 
