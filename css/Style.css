@@ -144,6 +144,19 @@ p{
     color: black;
 }
 
+/*Yakuza INFINITE WEALTH*/
+
+.container-IW{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(255, 205, 118); 
+    color: black;
+}
+
 .box{
     display: flex;
     justify-content: center;
