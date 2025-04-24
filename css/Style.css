@@ -105,6 +105,45 @@ p{
     color: white;
 }
 
+/*Yakuza 6*/
+
+.container-6{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(9, 3, 170); 
+    color: white;
+}
+
+/*Yakuza Like a Dragon*/
+
+.container-LaD{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(240, 193, 6); 
+    color: black;
+}
+
+/*Yakuza GAIDEN*/
+
+.container-GAIDEN{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(237, 237, 237); 
+    color: black;
+}
+
 .box{
     display: flex;
     justify-content: center;
