@@ -157,6 +157,19 @@ p{
     color: black;
 }
 
+/*Like a Dragon Pirate Yakuza*/
+
+.container-PY{
+    display: flex;
+    flex-direction: column;    
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 60px;
+    background-color: rgb(78, 0, 113); 
+    color: white;
+}
+
 .box{
     display: flex;
     justify-content: center;
